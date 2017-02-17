@@ -1,4 +1,0 @@
-hello world!
-this is a new line!
-i had changed the file!
-Creating a new branch is quick & simple
